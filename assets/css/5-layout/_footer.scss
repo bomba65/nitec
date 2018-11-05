@@ -1,0 +1,15 @@
+footer {
+	padding: 1.5rem 0;
+	font-weight: 500;
+	font-size: 1.2rem;
+	color: $dark-blue;
+	text-align: center;
+
+	a {
+		color: $blue;
+
+		&:hover {
+			color: $blue;
+		}
+	}
+}
